@@ -1,0 +1,50 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 14px;
+  text-align: center;
+}
+
+form {
+  border-style: dotted;
+  padding: 20px;
+}
+
+#weatherResults {
+  border-style: dotted;
+  padding: 20px;
+}
+
+label {
+  font-size: 20px;
+}
+
+#weatherSubmit{
+  font-size: 14px;
+}
+
+#weatherInput{
+  font-size: 14px;
+}
+
+img {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
